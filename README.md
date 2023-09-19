@@ -1,5 +1,5 @@
-# Imposter-game
-python 2d game - made by pygame - 
+# Imposter-game ongoing( not finished )
+python 2d game - made by pygame 
 
 
 
