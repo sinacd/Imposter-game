@@ -1,6 +1,5 @@
-# Imposter-game ongoing( not finished )
+# Imposter- platformer mini game
 python 2d game - made by pygame 
-
 
 
 start of the level              
